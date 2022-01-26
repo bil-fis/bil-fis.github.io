@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>bil-fis ����</title>
   
+  <subtitle>ɶҲ���Ǳ���</subtitle>
+  <link href="http://bil-fis.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://bil-fis.github.io/"/>
   <updated>2022-01-26T06:59:31.883Z</updated>
-  <id>http://example.com/</id>
+  <id>http://bil-fis.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>bil-fis</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>留言板</title>
-    <link href="http://example.com/2022/01/26/%E7%95%99%E8%A8%80%E6%9D%BF/"/>
-    <id>http://example.com/2022/01/26/%E7%95%99%E8%A8%80%E6%9D%BF/</id>
+    <link href="http://bil-fis.github.io/2022/01/26/%E7%95%99%E8%A8%80%E6%9D%BF/"/>
+    <id>http://bil-fis.github.io/2022/01/26/%E7%95%99%E8%A8%80%E6%9D%BF/</id>
     <published>2022-01-26T06:57:42.000Z</published>
     <updated>2022-01-26T06:59:31.883Z</updated>
     
