@@ -6,7 +6,7 @@
   <link href="http://bil-fis.github.io/atom.xml" rel="self"/>
   
   <link href="http://bil-fis.github.io/"/>
-  <updated>2022-01-26T06:59:31.883Z</updated>
+  <updated>2022-01-26T13:12:40.608Z</updated>
   <id>http://bil-fis.github.io/</id>
   
   <author>
@@ -17,16 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>留言板</title>
-    <link href="http://bil-fis.github.io/2022/01/26/%E7%95%99%E8%A8%80%E6%9D%BF/"/>
-    <id>http://bil-fis.github.io/2022/01/26/%E7%95%99%E8%A8%80%E6%9D%BF/</id>
+    <title>Hello World</title>
+    <link href="http://bil-fis.github.io/2022/01/26/Hello%20World/"/>
+    <id>http://bil-fis.github.io/2022/01/26/Hello%20World/</id>
     <published>2022-01-26T06:57:42.000Z</published>
-    <updated>2022-01-26T06:59:31.883Z</updated>
+    <updated>2022-01-26T13:12:40.608Z</updated>
     
-    <content type="html"><![CDATA[<p>这里可以随便留言！对这个网站有什么想法都可以说！</p><span id="more"></span><p>这里可以随便留言！对这个网站有什么想法都可以说！<br>（说！都可以说！说累了直接睡觉，没问题的！(bushi)）</p><p><a href="https://space.bilibili.com/586310538">b站主页</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>恭喜你成功创建了在 Hexo 的第一篇博客！</p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;这里可以随便留言！对这个网站有什么想法都可以说！&lt;/p&gt;</summary>
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
     
     
     
