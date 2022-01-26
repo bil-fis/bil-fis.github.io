@@ -1,0 +1,49 @@
+/*
+作者：我爱吃fish
+主页：https://space.bilibili.com/586310538
+仅作参考学习使用，禁止用于任何商业活动
+*/
+
+
+/*输入框美化*/
+input{
+    border: 1px solid #ccc;
+    padding: 7px 0px;
+    border-radius: 3px;
+    padding-left:5px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s
+}
+input:focus{
+        border-color: #66afe9;
+        outline: 0;
+        -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);
+        box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)
+}
+
+/*登录、注册界面美化*/
+body.logreg{
+    font-family:"幼圆", Times, serif;
+}
+
+/*全站通用class*/
+
+.youyuantext{
+    font-family:"幼圆", Times, serif;
+}
+
+/*登录、注册界面密码输入部分*/
+
+/*Logo文字颜色设置*/
+.logotext{
+    color:rgb(239,160,67);
+}
+
+/*特殊文字展示*/
+div.important{
+  color:rgb(239,160,67);
+  font-family:"等线"
+}

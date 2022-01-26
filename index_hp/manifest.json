@@ -1,0 +1,11 @@
+{
+	"name": "OurStudio Search",
+	"icons": [{
+		"src": "https://192.168.3.14:41/image/logo.svg",
+		"type": "image/sbg",
+		"sizes": "192x192"
+	}],
+	"start_url": "/startpage",
+	"display": "standalone",
+	"theme_color": "#ffffff"
+}
