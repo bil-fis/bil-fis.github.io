@@ -6,7 +6,7 @@
   <link href="http://bil-fis.github.io/atom.xml" rel="self"/>
   
   <link href="http://bil-fis.github.io/"/>
-  <updated>2022-01-26T13:12:40.608Z</updated>
+  <updated>2022-01-31T07:49:46.044Z</updated>
   <id>http://bil-fis.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新年快乐</title>
+    <link href="http://bil-fis.github.io/2022/01/31/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
+    <id>http://bil-fis.github.io/2022/01/31/%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90/</id>
+    <published>2022-01-31T07:48:35.000Z</published>
+    <updated>2022-01-31T07:49:46.044Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>又是一年除夕！祝大家新年快乐！过年就要快快乐乐的！<br>给特别的你送上一份<a href="https://bil-fis.github.io/apps/happynewyear">好康的</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
