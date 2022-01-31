@@ -23,8 +23,8 @@ console.log('check已经执行');
         //跳转语句，如果是手机访问就自动跳转到wap.baidu.com页面
         if (system.win || system.mac || system.xll||system.ipad) {
         var audio = document.getElementById('audio');
-        audio.pause();
-            document.body.innerHTML="手机扫码打开：<br /> <img id='code'src='qrcode.png'/>";
+        setup();
+            
         } else {
         setup();
         }
