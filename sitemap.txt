@@ -1,4 +1,6 @@
 http://ifiss.gq/2023/hello-world_01_18/
 http://ifiss.gq/22/index.json
 http://ifiss.gq/22/textures_order.json
+http://ifiss.gq/RapeSenpai/README.html
+http://ifiss.gq/RapeSenpai/index.html
 http://ifiss.gq/
